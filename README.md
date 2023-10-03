@@ -21,7 +21,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in the United Kingdom 🇬🇧
+I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in the United Kingdom.
 
 - :telescope: I am working as a Software Engineer and specializing in Android application development.
 
